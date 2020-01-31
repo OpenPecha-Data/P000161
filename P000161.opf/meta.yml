@@ -1,0 +1,40 @@
+ebook_metadata:
+  title: ༄༅། །དམངས་དོ་ཧའི་རྣམ་བཤད་དེ་ཉིད་གསལ་བ་སོགས་དང་། དམངས་དོ་ཧའི་འགྲེལ་བཤད་ལྷན་སྐྱེས་སྣང་བ།
+    བཙུན་མོ་དོ་ཧའི་འགྲེལ་བཤད་སྙིང་པོ་རྣམ་ངེས། རྒྱལ་པོ་དོ་ཧའི་འགྲེལ་བཤད་ཟླ་བའི་འོད་ཟེར་སོགས་དང་།
+    དམངས་དོ་ཧའི་འགྲེལ་པ་དྲི་མེད་སྒྲོན་མེ་སོགས་ཕྱོགས་སྒྲིག་བཞུགས་སོ། །
+  authors:
+  - མཛད་པ་པོ། སྒྲུབ་ཐོབ་གླིང་རས། པར་ཕུ་བ་བློ་གྲོས་སེང་གེ །རྒྱལ་དབང་ཀརྨ་པ་རང་བྱུང་རྡོ་རྗེ།
+  sku: VVI-003
+  layers:
+  - book_title
+  - author
+  - tsawa
+  - quotation
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: Three Highly Regarded Commentaries on Saraha’s Spiritual Songs
+    bo: གྲུབ་ཆེན་ས་ར་ཧའི་དོ་ཧ་སྐོར་གསུམ་གྱི་བོད་འགྲེལ་གྲགས་ཆེ་བ་གསུམ་ཕྱོགས་སྒྲིག
+  collection:
+    en: Vajra Vidya Institute Library–  Book 3
+    bo: བཛྲ་བིདྱཱ་དཔེ་མཛོད་ཁང་།–  དེབ། ༣
+  author:
+    en: Authors:Drubthob Lingrepa,Parphuwa Lodro Senge,Third Karmapa Rangjung Dorje
+    bo: ཀརྨ་པ་སྐུ་ཕྲེང་གསུམ་པ་རང་བྱུང་རྡོ་རྗེ།,གྲུབ་ཐོབ་གླིང་རས་པ།,པར་ཕུ་བ་བློ་གྲོས་སེང་གེ
+  pusblisher:
+    en: Vajra Vidya Institute
+    bo: བཛྲ་བིདྱཱ་གཙུག་ལག་སློབ་གཉེར་ཁང་།
+  sku: VVI-003
+  category:
+    en: Spiritual Songs
+    bo: མགུར།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: VVI-003.epub
+  description:
+    en: ''
+    bo: ''
