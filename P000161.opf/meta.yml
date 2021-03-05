@@ -1,10 +1,11 @@
-ebook_metadata:
+id: P000161
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །དམངས་དོ་ཧའི་རྣམ་བཤད་དེ་ཉིད་གསལ་བ་སོགས་དང་། དམངས་དོ་ཧའི་འགྲེལ་བཤད་ལྷན་སྐྱེས་སྣང་བ།
     བཙུན་མོ་དོ་ཧའི་འགྲེལ་བཤད་སྙིང་པོ་རྣམ་ངེས། རྒྱལ་པོ་དོ་ཧའི་འགྲེལ་བཤད་ཟླ་བའི་འོད་ཟེར་སོགས་དང་།
     དམངས་དོ་ཧའི་འགྲེལ་པ་དྲི་མེད་སྒྲོན་མེ་སོགས་ཕྱོགས་སྒྲིག་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། སྒྲུབ་ཐོབ་གླིང་རས། པར་ཕུ་བ་བློ་གྲོས་སེང་གེ །རྒྱལ་དབང་ཀརྨ་པ་རང་བྱུང་རྡོ་རྗེ།
-  sku: VVI-003
   layers:
   - book_title
   - author
@@ -12,6 +13,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: VVI-003
 web_metadata:
   title:
     en: Three Highly Regarded Commentaries on Saraha’s Spiritual Songs
